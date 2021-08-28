@@ -1,0 +1,170 @@
+{
+    "30": {
+        "0": {
+            "Solution_score": 14857,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.0058171749114990234
+        },
+        "1": {
+            "Solution_score": 2650,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.0019822120666503906
+        },
+        "2": {
+            "Solution_score": 7078,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.0029914379119873047
+        },
+        "3": {
+            "Solution_score": 4720,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.003990650177001953
+        },
+        "4": {
+            "Solution_score": 12871,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.004998683929443359
+        }
+    },
+    "35": {
+        "0": {
+            "Solution_score": 6597,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.007974863052368164
+        },
+        "1": {
+            "Solution_score": 5133,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.0049932003021240234
+        },
+        "2": {
+            "Solution_score": 2748,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.005978584289550781
+        },
+        "3": {
+            "Solution_score": 2452,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.004987478256225586
+        },
+        "4": {
+            "Solution_score": 6377,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.012110710144042969
+        }
+    },
+    "40": {
+        "0": {
+            "Solution_score": 2939,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.007976055145263672
+        },
+        "1": {
+            "Solution_score": 2887,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.012966156005859375
+        },
+        "2": {
+            "Solution_score": 2317,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.008861541748046875
+        },
+        "3": {
+            "Solution_score": 2594,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.01296234130859375
+        },
+        "4": {
+            "Solution_score": 2701,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.0069811344146728516
+        }
+    },
+    "45": {
+        "0": {
+            "Solution_score": 18370,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.031549930572509766
+        },
+        "1": {
+            "Solution_score": 18415,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.029921531677246094
+        },
+        "2": {
+            "Solution_score": 16187,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.02592754364013672
+        },
+        "3": {
+            "Solution_score": 15430,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.028482675552368164
+        },
+        "4": {
+            "Solution_score": 21319,
+            "Alpha": 1.0,
+            "Beta": 5.0,
+            "Evaporation": 0.5,
+            "Pheromone": 2.0,
+            "Time": 0.03595089912414551
+        }
+    }
+}
